@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Amna-Attaria</h1>
 <h3 align="center">Software Engineering Student | Full Stack Developer | Passionate about Creating Impactful Web Solutions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amna-attaria&label=Profile%20views&color=0e75b6&style=flat" alt="amna-attaria" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amna-attaria" alt="amna-attaria" /></a> </p>
+<p align="left" id="profile-views"> 
+  <img src="https://komarev.com/ghpvc/?username=amna-attaria&label=Profile%20views&color=0e75b6&style=flat" alt="amna-attaria" /> 
+</p>
+
+
+<p align="left" id="profile-trophy"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=amna-attaria" alt="amna-attaria" />
+  </a> 
+</p>
 
 - 🔭 I’m currently working on **React**
 
