@@ -13,9 +13,9 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **SQL Server**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **.Net**
 
 - 🤝 I’m looking for help with **OpenSource Projects**
 
