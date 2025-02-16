@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/amna-attaria](www.linkedin.com/in/amna-khan6)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/amna-khan6](www.linkedin.com/in/amna-khan6)
 
 - 💬 Ask me about **Caoding**
 
