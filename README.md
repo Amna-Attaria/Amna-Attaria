@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amna Attaria</h1>
+<h1 align="center">Hi 👋, I'm Amna Khan</h1>
 <h3 align="center">Software Engineering Student | Full Stack Developer | Passionate about Creating Impactful Web Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amna-attaria&label=Profile%20views&color=0e75b6&style=flat" alt="amna-attaria" /> </p>
